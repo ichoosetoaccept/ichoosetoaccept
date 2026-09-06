@@ -1,24 +1,9 @@
-### Hey, I'm Ismar 👋
+### Hi 👋
 
-DevOps & Platform Engineer based in Zurich. I build developer tools, contribute upstream to open-source projects, and automate everything I can get my hands on.
+This is my home on GitHub. I'm all kinds of engineer, and an open-source contributor to projects I find useful.
 
-**Currently:** Managing GitOps-powered Kubernetes infrastructure at PostFinance, serving millions of customers.
+Some of my repos live at [@detailobsessed](https://github.com/detailobsessed). I created that org because I wanted to use [Blacksmith](https://blacksmith.sh) runners and they don't support personal accounts.
 
-**After hours:** Building [copier-uv-bleeding](https://github.com/detailobsessed/copier-uv-bleeding) — a modern Python project template — and contributing features upstream to [copier](https://github.com/copier-org/copier) and [git-town](https://github.com/git-town/git-town).
+Knowing whether to use my personal account or this org is a constant struggle 😃.
 
-#### What I'm working on
-
-- 🔧 **[copier-uv-bleeding](https://github.com/detailobsessed/copier-uv-bleeding)** — Python project template with uv, ty, prek, and semantic-release
-- 🐱 **[bengal](https://github.com/detailobsessed/bengal)** — My fork of a very nice, high-performance static site generator for Python 3.14+
-- 🔌 **[unblu-mcp](https://github.com/detailobsessed/unblu-mcp)** — MCP server for Unblu API with progressive disclosure
-- 🦊 **[efficient-gitlab-mcp](https://github.com/detailobsessed/efficient-gitlab-mcp)** — Token-efficient GitLab MCP server (93% fewer tokens)
-
-#### Open-source contributions
-
-- **[copier](https://github.com/copier-org/copier)** — Implementing `copier adopt` for adopting templates in existing projects ([PR](https://github.com/copier-org/copier/pull/2112))
-- **[git-town](https://github.com/git-town/git-town)** — Fixed missing `mr list` subcommand for GitLab support
-
-#### Links
-
-- 🌐 [ismar.ch](https://ismar.ch) — Blog, projects, and more
-- 🏢 [@detailobsessed](https://github.com/detailobsessed) — Where most of my projects live
+More about me at [ismar.ch](https://ismar.ch).
